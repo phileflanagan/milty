@@ -14,6 +14,10 @@ p {
     font-size: 1.5em;
 }
 
+.pind {
+    text-indent: 50px;
+}
+
 .plg {
     font-size: 24px;
 }
@@ -29,7 +33,7 @@ p {
 
 /* add some default padding to sections */
 .wpad {
-    padding: 45px 5%;
+    padding: 75px 5%;
 }
 
 /* get rid of default margin and rounded borders */

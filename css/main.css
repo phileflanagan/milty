@@ -10,8 +10,10 @@ footer p{
     font-size: 12px;
 }
 
+/* typography */
 p {
     font-size: 1.5em;
+    line-height: 2em;
 }
 
 .pind {
@@ -22,13 +24,25 @@ p {
     font-size: 24px;
 }
 
-/* dark and light section */
+.bluet {
+    color: #428bca;
+}
+
+/* dark, light, and color sections */
 .con-dark {
     background-color: #ddd;
 }
 
 .con-light {
     background-color: #f5f5f5;
+}
+
+.con-blue {
+    background-color: #428bca;
+}
+
+.con-blue p {
+    color: #f5f5f5;
 }
 
 /* add some default padding to sections */
